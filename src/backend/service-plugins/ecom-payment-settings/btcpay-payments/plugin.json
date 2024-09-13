@@ -1,0 +1,6 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/ecom-payment-settings.json",
+  "id": "4395327a-11ae-4c26-bba4-0dc9c2d6ae36",
+  "name": "btcpay-payments",
+  "fallbackValueForRequires3dSecure": false
+}
