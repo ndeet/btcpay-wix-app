@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/dashboard-page.json",
+  "id": "142cb6d9-3b5d-46f0-9ccf-5fccf970b0e0",
+  "title": "BTCPay Bitcoin Payments"
+}

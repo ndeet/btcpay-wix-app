@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "97298850-e98b-4bf6-a886-36fe03143b06",
+  "projectId": "btcpay-bitcoin-wix"
+}
